@@ -3,7 +3,7 @@
 
 - 🤝 I’m working at Su Bilgi Teknolojileri as Back-End Developer [https://www.subilgi.com.tr/](https://www.subilgi.com.tr/)
 
-- 💬 Ask me about **.NET Core and Domain Driven Design(DDD)**
+- 💬 Ask me about **.NET Core and Domain Driven Design (DDD)**
 
 - 📫 How to reach me **barisyuksek@hotmail.com**
 
